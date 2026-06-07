@@ -6,8 +6,8 @@ Proyecto desarrollado en el marco del TFC 2026. Este repositorio contiene la imp
 El sistema utiliza una arquitectura **RAG (Retrieval-Augmented Generation)** orquestada mediante **n8n** para analizar documentos internos de MIDTECH S.A. y contrastarlos con normativas externas. El objetivo es identificar brechas de cumplimiento de forma automatizada y eficiente.
 ##  Estructura del Repositorio
 *   `README.md`: Documentación del proyecto.
-*
-*   
+* PDFs usados
+*   accesso al Webhook y chatbot
 
 ##  Arquitectura Técnica
 *   **Orquestación:** n8n Workflow (Pipeline de procesamiento de datos).
