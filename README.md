@@ -34,4 +34,4 @@ Puede realizar pruebas funcionales del agente de cumplimiento a través del sigu
 
  **[Acceder al Chatbot de Auditoría (TFC)](LINK kommt noch)**
 ---
-*creado por [Ex-1237](Linkeinffügen)*
+*creado por [Ex-1237]((https://github.com/Ex-1237))*
