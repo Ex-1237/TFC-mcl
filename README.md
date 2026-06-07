@@ -26,12 +26,12 @@ Desde el editor de n8n, se debe ejecutar el flujo para cargar el contexto actual
 ### 2. Automatización (Webhook)
 El proyecto incluye un punto de entrada API para integraciones de CI/CD o disparadores automáticos.
 *   **Método:** POST
-*   **Endpoint:** `[Production URL  - hier eintragen`
+*   **Endpoint:** https://mcld.app.n8n.cloud/webhook/569cdacf-3c59-4c7b-8ae1-2502f73553b4
 *   **Estado:** El workflow debe estar en modo **[Active]** para escuchar peticiones externas.
 
 ##  Acceso al Sistema / Chatbot
 Puede realizar pruebas funcionales del agente de cumplimiento a través del siguiente enlace:
 
- **[Acceder al Chatbot de Auditoría (TFC)](LINK kommt noch)**
+ **[Acceder al Chatbot de Auditoría (TFC)](https://mcld.app.n8n.cloud/webhook/c3ba3f0a-f587-47c2-890d-    04745a706629/chat )**
 ---
-*creado por [Ex-1237]((https://github.com/Ex-1237))*
+
